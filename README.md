@@ -1,14 +1,27 @@
 
 # Social Buzz Analysis
 
+![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/social-buzz-analysis?logo=github)
+![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/aryakghosal/social-buzz-analysis?logo=history&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
 
 
+![Banner](Images/Picture1.png)
 
 
 ## Contents
 
-
-
+- [Description](#description)
+- [Project Details](#project-details)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+  - [Calculated KPIs](#kpis-that-were-calculated)
+- [Data Collection](#data-collection)
+- [Data Cleaning Process](#data-cleaning-process)
+- [Skills](#skills)
+- [Tech Stack](#tech-stack)
+- [Insights \& Recommendations](#insights--recommendations)
+- [Dashboard](#dashboard)
+- [Conclusion](#conclusion)
 
 
 ## Description
@@ -30,7 +43,6 @@ The final deliverable was a Power BI report detailing the top 5 content categori
 ## Key Performance Indicators (KPIs)
 
 KPIs are measurable values that organizations use to track and evaluate their progress towards achieving specific business objectives. They are used to measure performance over time and allow organizations to make data-driven decisions based on actual results. KPIs are specific to the objectives of an organization or department and can be qualitative or quantitative. They are important metrics that help organizations identify areas for improvement, set targets for future performance, and track their success in meeting their goals.
-
 
 ### KPIs that were calculated:
 
@@ -74,6 +86,8 @@ The dataset was provided as a CSV file by Accenture from their client Social Buz
 **Sentiment**: _A string detailing whether this type of reaction is considered as positive, negative or neutral._ \
 **Score**: _This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered as a more popular reaction._ 
 
+**Link:** [Dataset](Datasets)
+
 ## Data Cleaning Process:
 
 1. _Removing rows that have missing values._
@@ -116,9 +130,11 @@ Animals.
 3. The most common month for users to post within was May, which had the most number of positive engagements.
 
 4. From the analysis, the top 5 most popular categories of posts were Animals, Science, Healthy Eating, Technology and Food in descending
-order.
+order. 
 
-IMAGE
+<p align="center">
+  <img src="Images/Picture2.jpg" alt="Image1" style="width: 593px; height: 368px; max-width: 100%; height: auto;" />
+</p>
 
 5. Animals had an aggregate popularity score of around **68624**. 
 
@@ -129,19 +145,23 @@ that Food is a highly engaging content category.
 
 8. It was also interesting to see Science and Technology too. This may suggest that people enjoy consuming "real-life" and "factual" content, and snippets of content that they can learn something from.
 
+<p align="center">
+  <img src="Images/Picture3.jpg" alt="Image1" style="width: 343.07px; height: 212.04px; max-width: 100%; height: auto;" />
+</p>
+
 9. Additionally, we can see from this chart the % split of popularity between the top 5 categories. There is not much difference between the share of each category, however, the difference between the 1st most popular, Animals and the 2nd most popular, Science, is the largest gap equal to **1.1%**. In business terms, this could suggest that the most popular category, Animals, is tailing away from the rest of the categories and may continue to get more and more popular. To avoid an issue where one content category consumes the entire platform, it will be important for the Social Buzz team to ensure that any algorithms used to govern the content on the platform gives a fair balance to the content categories.
 
 ## Dashboard
 
+![Sentiment](Images/1-Dashboard-Sentiment.jpg)
+![Positive](Images/2-Dashboard-Positive.jpg)
+![Negative](Images/3-Dashboard-Negative.jpg)
+![Neutral](Images/4-Dashboard-Neutral.jpg)
+
+[Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2QwODVlZjMtMGZiMy00ZTY2LTlhZmEtY2RlNDg4NjBhMTJjIiwidCI6ImFhODMxNTE3LTU2ZTQtNGM4MS1iNTViLTYxZTk1MjQwMGE1MCJ9)
 
 
-
-
-
-
-
-
-Overall, this dashboard will provide an overview of the sentiment, content, and time-based patterns of the reactions, as well as a sense of how users express their reactions.
+Overall, this dashboard report will provide an overview of the sentiment, content, and time-based patterns of the reactions, as well as a sense of how users express their reactions.
 
 ## Conclusion
 
