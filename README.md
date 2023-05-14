@@ -146,9 +146,8 @@ that Food is a highly engaging content category.
 8. It was also interesting to see Science and Technology too. This may suggest that people enjoy consuming "real-life" and "factual" content, and snippets of content that they can learn something from.
 
 <p align="center">
-  <img src="Images/Picture3.jpg" alt="Image1" style="width: 234px; height: 230px; max-width: 100%; height: auto;" />
+  <img src="Images/Picture3.jpg" alt="Image1" style="width: 351px; height: 345px; max-width: 100%; height: auto;" />
 </p>
-
 
 9. Additionally, we can see from this chart the % split of popularity between the top 5 categories. There is not much difference between the share of each category, however, the difference between the 1st most popular, Animals and the 2nd most popular, Science, is the largest gap equal to **1.1%**. In business terms, this could suggest that the most popular category, Animals, is tailing away from the rest of the categories and may continue to get more and more popular. To avoid an issue where one content category consumes the entire platform, it will be important for the Social Buzz team to ensure that any algorithms used to govern the content on the platform gives a fair balance to the content categories.
 
