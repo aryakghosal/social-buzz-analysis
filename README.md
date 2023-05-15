@@ -26,7 +26,7 @@
 
 ## Description
 
-Conducted an analysis of Social Buzz's content categories to determine the top 5 categories with the highest aggregate popularity, and presented a Power BI report to the management team in order to optimize their content creation strategy and scale their business effectively.
+Conducted an analysis of Social Buzz's content categories to determine the top 5 categories with the highest aggregate popularity, and presented a Power BI report to the management team in order to optimize their content creation strategies and scale their business effectively.
 
 ## Project Details
 
@@ -38,7 +38,7 @@ To determine the top 5 categories with the highest aggregate popularity, I added
 
 Before beginning to analyze the data, I performed data cleaning to remove any rows with missing values, change the data type of some values within a column, and remove columns that are not relevant to this task. Once I have cleaned the data, I calculated KPIs such as positive sentiment, negative sentiment, neutral sentiment, percentage positive sentiment, percentage negative sentiment, and percentage neutral sentiment.
 
-The final deliverable was a Power BI report detailing the top 5 content categories with the highest aggregate popularity, along with the KPIs calculated for each category. This report will be presented to Social Buzz's management team, who will use the insights gained to optimize their content creation strategy and scale their business effectively.
+The final deliverable was a Power BI report detailing the top 5 content categories with the highest aggregate popularity, along with the KPIs calculated for each category. This report will be presented to Social Buzz's management team, who will use the insights gained to optimize their content creation strategies and scale their business effectively.
 
 ## Key Performance Indicators (KPIs)
 
@@ -165,7 +165,7 @@ Overall, this dashboard report will provide an overview of the sentiment, conten
 
 ## Conclusion
 
-In conclusion, my analysis of Social Buzz's data helped us identify the most popular content categories and provide key performance indicators to optimize their content creation strategy. The Power BI report that I delivered will enable Social Buzz's management team to make data-driven decisions and scale their business effectively.
+In conclusion, my analysis of Social Buzz's data helped us identify the most popular content categories and provide key performance indicators to optimize their content creation strategies. The Power BI report that I delivered will enable Social Buzz's management team to make data-driven decisions and scale their business effectively.
 
 ---
 
