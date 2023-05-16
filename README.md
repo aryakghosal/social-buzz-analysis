@@ -40,6 +40,10 @@ Before beginning to analyze the data, I performed data cleaning to remove any ro
 
 The final deliverable was a Power BI report detailing the top 5 content categories with the highest aggregate popularity, along with the KPIs calculated for each category. This report will be presented to Social Buzz's management team, who will use the insights gained to optimize their content creation strategies and scale their business effectively.
 
+#
+
+![Picture](Images/Picture0.jpg)
+
 ## Key Performance Indicators (KPIs)
 
 KPIs are measurable values that organizations use to track and evaluate their progress towards achieving specific business objectives. They are used to measure performance over time and allow organizations to make data-driven decisions based on actual results. KPIs are specific to the objectives of an organization or department and can be qualitative or quantitative. They are important metrics that help organizations identify areas for improvement, set targets for future performance, and track their success in meeting their goals.
